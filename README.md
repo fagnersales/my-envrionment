@@ -1,0 +1,1 @@
+Attendance will start first, followed by Store One and Store Two, which will begin in sequence (either concurrently or not).
